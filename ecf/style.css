@@ -1,0 +1,19 @@
+
+body {
+	font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    background-color: #F2F2F2;
+}
+h2.h1 {
+	font-family: 'Rajdhani', sans-serif;
+  font-weight: bold ;
+}
+div {
+    background-color: #F2F2F2;}
+
+.button{
+    background-color: #262526;
+}   
+.lien{
+    color:#F2F2F2;
+}

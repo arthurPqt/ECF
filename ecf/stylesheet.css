@@ -1,0 +1,20 @@
+
+.header{
+    display: inline-flex;
+    flex-direction: row;
+}
+
+*, ::before, ::after {
+    display: inline-flex;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+	font-family: 'Barlow', sans-serif;
+}
+h2 {
+	font-family: 'Rajdhani', sans-serif;
+}
