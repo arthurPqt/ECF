@@ -1,4 +1,4 @@
-[README-ECF.md](https://github.com/user-attachments/files/26962495/README-ECF.md)
+
 # ECF — Site de gestion de véhicules
 
 Site web dynamique réalisé dans le cadre de l'**Examen de Certification de Formation** (ECF) chez **Studi**, formation Développeur Web et Web Mobile.
